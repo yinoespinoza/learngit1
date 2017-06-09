@@ -1,19 +1,2 @@
 Hello, World !
-
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-Hello, World !
-
-chin esta linea la puse pero ya me chocolateo el archivo
+CAMBIO DE PRUEBA DESPUES DE ACTUALIZAR MI CARPETA DESDE EL REPOSITORIO DE LA NUBE.
